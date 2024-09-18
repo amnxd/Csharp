@@ -1,0 +1,15 @@
+/home/bud/code/Csharp/Cshharp/bin/Debug/net8.0/Cshharp
+/home/bud/code/Csharp/Cshharp/bin/Debug/net8.0/Cshharp.deps.json
+/home/bud/code/Csharp/Cshharp/bin/Debug/net8.0/Cshharp.runtimeconfig.json
+/home/bud/code/Csharp/Cshharp/bin/Debug/net8.0/Cshharp.dll
+/home/bud/code/Csharp/Cshharp/bin/Debug/net8.0/Cshharp.pdb
+/home/bud/code/Csharp/Cshharp/obj/Debug/net8.0/Cshharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/bud/code/Csharp/Cshharp/obj/Debug/net8.0/Cshharp.AssemblyInfoInputs.cache
+/home/bud/code/Csharp/Cshharp/obj/Debug/net8.0/Cshharp.AssemblyInfo.cs
+/home/bud/code/Csharp/Cshharp/obj/Debug/net8.0/Cshharp.csproj.CoreCompileInputs.cache
+/home/bud/code/Csharp/Cshharp/obj/Debug/net8.0/Cshharp.sourcelink.json
+/home/bud/code/Csharp/Cshharp/obj/Debug/net8.0/Cshharp.dll
+/home/bud/code/Csharp/Cshharp/obj/Debug/net8.0/refint/Cshharp.dll
+/home/bud/code/Csharp/Cshharp/obj/Debug/net8.0/Cshharp.pdb
+/home/bud/code/Csharp/Cshharp/obj/Debug/net8.0/Cshharp.genruntimeconfig.cache
+/home/bud/code/Csharp/Cshharp/obj/Debug/net8.0/ref/Cshharp.dll

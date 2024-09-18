@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FFeff+VxQfwNT3KEyZOjWelu4r0HYEBpFs/O+tepK/49p5fAH6D6itF2Am6YtNV7JQ7WSZgparjzqxI8F3wLhA==",
+  "success": true,
+  "projectFilePath": "/home/bud/code/Csharp/Cshharp/Cshharp.csproj",
+  "expectedPackageFiles": [
+    "/home/bud/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
