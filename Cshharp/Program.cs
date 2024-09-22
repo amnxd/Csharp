@@ -4,7 +4,9 @@
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            short number;
+            number = 10;
+            Console.WriteLine(number);
         }
     }
 }
